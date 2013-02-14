@@ -1,2 +1,2 @@
-Teoia-de-la-informacion-y-metodos-de-codificacion
+Teoria-de-la-informacion-y-metodos-de-codificacion
 =================================================
